@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm NainaPawale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849821_1280.jpg">
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/photos/student-woman-startup-business-849821/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nainapawale&label=Profile%20views&color=0e75b6&style=flat" alt="nainapawale" /> </p>
