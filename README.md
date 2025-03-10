@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainapawale" alt="nainapawale" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **https://www.linkenln.com/in/naina-p-57457b236**
 
